@@ -1,4 +1,3 @@
-\# name 可以自定义
 name: Deploy GitHub Pages
 
 # 触发条件：在push到main/master分支后，新的Github项目 应该都是main，而之前的项目一般都是master
