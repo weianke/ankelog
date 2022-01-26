@@ -2,6 +2,8 @@ module.exports = {
   title: '安可得博客',
   description: '安可得博客',
   theme: 'reco',
+  base: '/ankelog/',// 设置站点根路径
+  repo: 'https://github.com/weianke/ankelog' ,
   locales: {
     '/': {
       lang: 'zh-CN',
